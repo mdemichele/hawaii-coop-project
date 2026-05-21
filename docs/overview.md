@@ -8,6 +8,14 @@ The platform guides a group through every stage of the co-op lifecycle — from 
 
 ---
 
+## Why Co-ops?
+
+Western Capitalism separates people into two divisions: capital and labor. There are those with ownership and there are those who work for those with ownership. As anyone who has ever owned anything knows, you care much more about the things that you own than things you don't. In late-stage capitalism, most of us own very little. Most of us simply fall into the labor category. We work jobs at companies owned by others. Usually, these owners live in distant places far away from our communities. They don't care about your local community and have no incentive to care. 
+
+Co-ops aim to radically this dynamic. Co-ops are a form of collective organization in which everyone who labors also has ownership. Every member of the organization, from the newest employee to the founders have real equity in the business. 
+
+---
+
 ## Problem
 
 Forming a co-op in Hawaii is hard:
