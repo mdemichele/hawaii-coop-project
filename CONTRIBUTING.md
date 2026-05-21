@@ -85,3 +85,9 @@ For feature requests, describe the problem you're trying to solve rather than ju
 ## Questions
 
 If you have a question that isn't covered here, open a GitHub Discussion or file an issue tagged `question`. We're a small project and happy to help orient new contributors.
+
+---
+
+## Contact
+
+For anything not suited to a public issue or discussion — partnerships, domain expertise, or general inquiries — you can reach the project maintainer directly at **m.d.demichele@gmail.com**.
