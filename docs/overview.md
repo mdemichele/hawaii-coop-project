@@ -10,9 +10,13 @@ The platform guides a group through every stage of the co-op lifecycle — from 
 
 ## Why Co-ops?
 
-Western Capitalism separates people into two divisions: capital and labor. There are those with ownership and there are those who work for those with ownership. As anyone who has ever owned anything knows, you care much more about the things that you own than things you don't. In late-stage capitalism, most of us own very little. Most of us simply fall into the labor category. We work jobs at companies owned by others. Usually, these owners live in distant places far away from our communities. They don't care about your local community and have no incentive to care. 
+Western capitalism divides people into two categories: those who own and those who work for those who own. This division is not incidental — it is structural. Capital accumulates toward those who already have it, while the people who actually build, grow, harvest, and maintain things see little of the wealth they create. Most of us spend our working lives inside organizations we have no real stake in, generating value for owners who may never set foot in our neighborhoods and have no particular reason to care whether our communities thrive.
 
-Co-ops aim to radically this dynamic. Co-ops are a form of collective organization in which everyone who labors also has ownership. Every member of the organization, from the newest employee to the founders have real equity in the business. 
+Ownership changes behavior. Anyone who has ever owned something — a home, a small business, a piece of land — knows that you tend it differently than something that belongs to someone else. You invest in it. You protect it. You think about its future. When ownership is concentrated in distant hands, that attentiveness disappears from local communities. Decisions get made by people with no skin in the local game, and communities bear the consequences.
+
+Co-ops are a direct response to this problem. A cooperative is an organization owned and governed by the people who use it — the workers, the residents, the farmers. Every member holds real equity. Every member has a voice in how the organization is run. Profit and benefit flow back to the people who created them, not to external shareholders. The organization is accountable to its community because its community is its ownership.
+
+This is not a radical or untested idea. There are thousands of successful co-ops operating across the United States and around the world — grocery stores, credit unions, housing complexes, farms, utilities. What is rare is accessible infrastructure that makes it easy for ordinary people to form one. That is what this platform is for.
 
 ---
 
